@@ -1,0 +1,364 @@
+body {
+    
+    
+}
+header {
+    background: url(../img/bg-1.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    /*margin: 48px -16px 0px -16px;*/
+    margin-top: 48px;
+    padding-top: 0px;
+    width: auto;
+    height: 662px;
+    color: white;
+
+}
+.nav {
+    
+    margin: -48px 0px 0px -16px;
+    height: 100px;
+    
+}
+.nav img {
+    margin: 18px 18px 0px 55px; 
+    width: 130px;
+    height: 130px;
+    text-align: center;
+}
+/*col-sm-4 img {
+    width: 100px;
+    height: 100px;
+    border-radius: none;
+    margin: 90px 0px 0px 0px;
+}*/
+	.nav ul {
+        padding: 10px;
+        text-align: right;
+        margin: 20px 18px 0px 65px; 
+		}
+	.nav li {
+		display: inline;
+        color: black;
+		}
+.profile-pic {
+    text-align: center;
+}
+.profile-pic img {
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+    border: 7px solid white;
+    margin: 40px 90px 40px 90px;
+}
+.gradient-white img {
+    width: 50px;
+    height: 50px;
+    /*margin-right: -1190px;*/
+}
+.resume p {
+    padding: 15px 15px;
+    font-family: 'Montserrat',sans-serif;
+    font-size: 22px;
+    margin: 4px 2px;
+    color: black;
+    text-align: left;
+}
+.resume li {
+    padding: 8px 10px;
+    margin: 4px 2px;
+    text-align: justify;
+    color: dimgrey;
+}
+.resume-btn a {
+    
+        border-radius: 6px;
+        border: 3px solid white;
+}
+.dotbar {
+    text-align: center;
+    border-bottom: 1px solid #D3D3D3;
+    
+}
+.experience p {
+    font-family: 'Montserrat',sans-serif;
+    font-size: 18px;
+    color: dimgrey;
+    text-align: justify;
+    
+}
+.experience h3 {
+    font-family: 'Montserrat',sans-serif;
+    font-size: 24px;
+    color: black;
+    text-align: justify;
+    
+}
+.experience h4 {
+    font-family: 'Montserrat',sans-serif;
+    font-size: 20px;
+    color: dimgrey;
+    text-align: justify;
+    
+}
+.experience li {
+    
+    text-align: justify;
+    color: dimgrey;
+}
+.education p {
+    
+    font-family: 'Montserrat',sans-serif;
+    font-size: 18px;
+    color: dimgrey;
+    text-align: justify;
+}
+.education h3 {
+    
+    text-align: justify;
+    color: black;
+    font-family: 'Montserrat',sans-serif;
+    font-size: 24px;
+}
+.connect {
+    background-color: lightgray;
+    width: auto;
+    height: 350px;
+    text-align: center;
+}
+.connect p {
+    
+    font-family: 'Montserrat',sans-serif;
+    font-size: 18px;
+    color: dimgrey;
+    text-align: justify;
+    text-align: center;
+}
+.connect h3 {
+    
+    text-align: justify;
+    color: black;
+    font-family: 'Montserrat',sans-serif;
+    font-size: 26px;
+    text-align: center;
+}
+.chat-btn a {
+    font-family: 'Montserrat',sans-serif;
+    font-size: 22px;
+    color: black;
+    text-decoration: none;
+    border-radius: 6px;
+    border: 3px solid black;
+    
+}
+/*section {
+        
+    text-align: center;
+}*/
+
+
+  a {
+    color: white;
+    padding: 15px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    font-family:'Montserrat',sans-serif;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.footer {
+    background: url(../img/bg-1.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+   /* margin: -16px -16px 0px -16px;*/
+    padding-top: 0px;
+    width: auto;
+    height: 462px;
+    color: white;
+    text-align: center;
+}
+.footer li {
+    display: inline;
+    color: black;
+}
+.footer a {
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 22px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border: 0px;
+}
+.footer p {
+    
+    font-size: 14px;
+    text-align: center;
+}
+.footer-logo img{
+    width: 130px;
+    height: 130px;
+    text-decoration: none;
+    text-align: center;
+    border-radius: 0px;
+    border: 0px solid white;
+    margin-top: 25px;
+}
+.social-media li {
+    display: inline;    
+}
+.social-media img {
+    width: 60px;
+    height: 60px;
+    margin-top: 25px;
+    border: 0px;
+}
+.map {
+    background: url(../img/address.png);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    margin: -16px -16px 0px -16px;
+    padding-top: 0px;
+    width: auto;
+    height: 350px;
+    color: white;
+}
+
+/*section a {
+    border-style: solid;
+    border-width: medium;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    
+    font-size: 22px;
+    margin: 4px 2px;
+    cursor: pointer;
+    
+}
+section img {
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+    border: 7px solid white;
+    margin: 90px 0px 0px 0px;
+}*/
+p {
+    
+    font-family: 'Montserrat',sans-serif;
+    font-size: 48px;
+    color: azure;
+}
+.main {
+    
+      /*background: url(img/bg-1.jpg);
+    background-size: cover; */
+    
+}
+.about p{
+    font-family: sans-serif;
+    font-size: 18px;
+    color: black;
+}
+.about h2 {
+    font-family: sans-serif;
+    font-size: 44px;
+    color: black;
+}
+.about a {
+    font-family: sans-serif;
+    font-size: 18px;
+    color: black;
+}
+.projects ul{
+    
+    font-family: sans-serif;
+    font-size: 18px;
+    color: black;
+}
+.projects h2{
+    
+    font-family: sans-serif;
+    font-size: 44px;
+    color: black;
+}
+.row {
+    font-family: sans-serif;
+    margin-right: 0px;
+    font-size: 18px;
+    color: black;
+    
+}
+.headings {
+    font-family: sans-serif;
+    font-size: 44px;
+    color: black; 
+}
+.contact {
+    
+    background: url(../img/bg.jpg);
+    background-size: cover;
+}
+.contact h2{
+    font-family: sans-serif;
+    font-size: 44px;
+    color: white;
+    
+}
+.contact h3{
+    font-family: sans-serif;
+    font-size: 34px;
+    color: white;
+    
+}
+.contact p{
+   3font-family: sans-serif;
+    font-size: 18px;
+    color: white;
+}
+/*.@media(max-width:500px) {
+
+    header {
+    background: url(img/Abhi-bg.png);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    margin: -16px -16px 0px -16px;
+    padding-top: 0px;
+    width: auto;
+    height: 250px;
+    color: red;
+
+}
+nav {
+ background-color: rgba(0,0,0,0.5);
+    
+}
+    nav li {
+		display: inline;
+		padding: 0px 1px 0px 1px;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 8px;
+		}
+    img {
+    width: 50px;
+    height: 50px;
+    border-radius: 1px;
+    border: 7px solid white;
+    margin: 40px 0px 0px 0px;
+}
+p {
+    
+    font-family: 'Montserrat',sans-serif;
+    font-size: 28px;
+    color: blue;
+}
+}*/
